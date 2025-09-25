@@ -1,0 +1,10 @@
+name = input("An wen geht die Nachricht? ")
+absender = input("Wer is der Absender? ")
+
+print(f"Hallo {name}")
+print(" ")
+print("Mit dieser Email möchte ich dir ein paar News schicken")
+print("Ich lerne grade python und dies is mein erster Test")
+print(" ")
+print("Grüße")
+print(f"{absender}")

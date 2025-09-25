@@ -1,0 +1,5 @@
+print("Herzlich willkommen zum Wähungsrechner!")
+print("")
+euro = input("Bitte Betrag in Euro eingeben: ")
+yen = 172.36 * float(euro)
+print(f"Der Betrag entspricht {yen} Yen")
